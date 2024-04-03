@@ -68,6 +68,15 @@ function Footer() {
               </form>
             </div>
           </div>
+
+          <div className='line'>
+          </div>
+          <div className='footer_end'>
+            <p>Copyright © 2010 - 2024 Xiaomi. All Rights Reserved</p>
+            <p>Cookie Policy</p>
+            <p>Cookie Policy</p>
+            <p>Sitemap</p>
+          </div>
         </div>
       </footer>
     </div>

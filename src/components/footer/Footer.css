@@ -42,7 +42,7 @@
 
 .big_wrapper_flex_div {
     display: flex;
-   justify-content: space-around;
+    justify-content: space-around;
 }
 
 .icon_container {
@@ -73,4 +73,24 @@ input {
     padding: 10px;
     width: 250px;
     height: 40px;
+}
+
+.line {
+    margin-top: 40px;
+    border-top: 1px solid #898989;
+    border-top: 1px solid #898989;
+    padding: 22px 0;
+    width: 100%
+}
+
+.footer_end{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding-bottom: 20px;
+}
+
+.footer_end p{
+    color: white;
+    font-size: 18px;
 }
